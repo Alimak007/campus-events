@@ -1,1 +1,1 @@
-Main file
+Merge conflict resolved
